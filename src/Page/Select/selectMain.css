@@ -1,0 +1,26 @@
+.main {
+  min-height: 20vh;
+  /* display: flex;
+  flex-direction: row; */
+  align-items: center;
+  justify-content: center;
+  font-size: 2vmin;
+  color: black;
+  margin: 50px;
+}
+
+
+.top{
+  height: 300px;
+  padding-top: 20px;
+}
+
+.left{
+  width: 40%;
+  float: left;
+}
+
+.right{
+  width: 60%;
+  float: right;
+}
